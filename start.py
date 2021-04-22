@@ -1,6 +1,6 @@
-from os import system # chala ja bhosdike madarchod
-system ("git clone https://GitHub.com/ULTRA-OP/ULTRA-X && cd ULTRA-X && python3 -m ULTRA")
+from os import system # Bhai ja jaake apna BrothersUserbot bana
+system ("git clone https://GitHub.com/Elonmusk-1/BrothersUserbot && cd BrothersUserbot && python3 -m userbot")
 # try af
 print("OH SYSTEM IS CRASHED")
-system("python3 -m ULTRA")
-print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @UltraXchaT")
+system("python3 -m userbot")
+print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @BrothersUserbot")
