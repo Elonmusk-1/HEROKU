@@ -94,16 +94,7 @@
     "STRING_SESSION": {
       "description": "Get this value by running https://replit.com/@legendx22/ULTRA-X#main.py ",
       "value": ""
-    },
-    "GITHUB_ACCESS_TOKEN": {
-      "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
-      "value": "",
-      "required": false
-    },
-    "GIT_REPO_NAME": {
-      "description": "Your repo name Example: madboy482/ULTRA-X , but GITHUB_ACCESS_TOKEN must be setup first.",
-      "value": "",
-      "required": false
+    
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
