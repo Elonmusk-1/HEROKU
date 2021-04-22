@@ -1,7 +1,7 @@
 {
-  "name": "ULTRA X",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
-  "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
+  "name": "BrothersUserbot",
+  "description": "THE SUPER USERBOT MADED BY Sagar Dahiya AND Lucky Rajput; JOIN @BrothersUserbot FOR HELP ",
+  "logo": "https://telegra.ph/file/ac3e6f8158947f2b693d8.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/Elonmusk-1/BrothersUserbot/",
+  "website": "https://github.com/Elonmusk-1/BrothersUserbot/",
+  "success_url": "https://t.me/BrothersUserbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
